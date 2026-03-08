@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Raju Badmass",
+        "age": 19,
+        "email": "badmass@gmail.com",
+        "Pin": 9860,
+        "Account Number": "u2*G8D2",
+        "Balance": 5000
+    },
+    {
+        "name": "Prathamesh.jumle",
+        "age": 23,
+        "email": "p@gmail.com",
+        "Pin": 1243,
+        "Account Number": "8B5D7P#",
+        "Balance": 1000
+    },
+    {
+        "name": "Damu patil",
+        "age": 24,
+        "email": "dp@gmail.com",
+        "Pin": 7894,
+        "Account Number": "kGj579@",
+        "Balance": 1000.0
+    }
+]
